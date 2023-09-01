@@ -3,5 +3,5 @@ Elo, a prominent payment brand in Brazil, has established collaborations with me
 
 In this ploject, the New Customer data of cardholders will be examined to identify their RFM values and K-Means clusters to see the overview of the customer usage of the cards.
 
-<img src="amytakeuchi.github.io/images/Elo_Kmeans.png?" width="400" height="400"/>
+<img "amytakeuchi.github.io/images/Elo_Kmeans.png?" width="400" height="400"/>
 
